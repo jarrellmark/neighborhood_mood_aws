@@ -1,0 +1,12 @@
+# Flask
+flask
+
+# AWS
+boto3
+
+# Testing
+mock
+
+# Production Server
+gevent
+gunicorn

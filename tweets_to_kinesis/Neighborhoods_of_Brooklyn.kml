@@ -1,0 +1,1239 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Neighborhoods of Brooklyn</name>
+		<description><![CDATA[Like with all maps of neighborhoods this map generalizes the borders to some extent and excludes some micro-hoods to keep things simple.]]></description>
+		<Folder>
+			<name>Untitled layer</name>
+			<Placemark>
+				<name>Stuyvesant Heights</name>
+				<description><![CDATA[AKA: Bed-Stuy]]></description>
+				<styleUrl>#poly-3366FF-3-115</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-73.947194,40.700118,0.0 -73.943267,40.68002500000001,0.0 -73.943954,40.680105999999995,0.0 -73.944619,40.673125,0.0 -73.922303,40.671871,0.0 -73.92271,40.667331000000004,0.0 -73.922238,40.667282,0.0 -73.903463,40.675501,0.0 -73.903334,40.677877,0.0 -73.903613,40.678511,0.0 -73.903828,40.679097,0.0 -73.941979,40.700801999999996,0.0 -73.947194,40.700118,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Bedford</name>
+				<description><![CDATA[AKA: Bed-Stuy]]></description>
+				<styleUrl>#poly-FF0000-3-115</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-73.94717,40.700070000000004,0.0 -73.96198,40.69822,0.0 -73.95936,40.68522,0.0 -73.95825,40.67983,0.0 -73.95301,40.67866,0.0 -73.94417,40.67814,0.0 -73.94387,40.68008999999999,0.0 -73.943267,40.680085,0.0 -73.94717,40.700070000000004,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Clinton Hill</name>
+				<styleUrl>#poly-33CC00-3-115-nodesc</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-73.96155,40.6962,0.0 -73.96477,40.69551,0.0 -73.97031,40.69587,0.0 -73.9676,40.681842,0.0 -73.958373,40.679857000000005,0.0 -73.96155,40.6962,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Fort Greene</name>
+				<styleUrl>#poly-FFFF00-3-115-nodesc</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-73.978672,40.689864,0.0 -73.981569,40.68997800000001,0.0 -73.98104,40.68891000000001,0.0 -73.97738,40.683890000000005,0.0 -73.96755,40.68177,0.0 -73.970518,40.695867,0.0 -73.98056000000001,40.69635999999999,0.0 -73.980324,40.695233,0.0 -73.98011,40.694485,0.0 -73.979509,40.694062,0.0 -73.97908,40.69346,0.0 -73.978672,40.689864,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>DUMBO</name>
+				<styleUrl>#poly-993399-3-115-nodesc</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-73.99533,40.70323,0.0 -73.992541,40.702189,0.0 -73.991253,40.700855,0.0 -73.987005,40.700627,0.0 -73.98473,40.696203,0.0 -73.981512,40.695941999999995,0.0 -73.980353,40.696462999999994,0.0 -73.980396,40.70105,0.0 -73.98104,40.70134300000001,0.0 -73.984945,40.701473,0.0 -73.984559,40.705638,0.0 -73.994815,40.704564,0.0 -73.99533,40.70323,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Vinegar Hill</name>
+				<styleUrl>#poly-FF9900-3-115-nodesc</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-73.984816,40.70157100000001,0.0 -73.980911,40.701343,0.0 -73.980525,40.701148,0.0 -73.979108,40.70583299999999,0.0 -73.984601,40.705638,0.0 -73.984816,40.70157100000001,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Navy Yard</name>
+				<styleUrl>#poly-3366FF-3-115-nodesc</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-73.961513,40.696203,0.0 -73.962071,40.698285,0.0 -73.960268,40.698513000000005,0.0 -73.960268,40.69919600000001,0.0 -73.967092,40.704141,0.0 -73.968379,40.706906,0.0 -73.971684,40.709346,0.0 -73.975203,40.707361999999996,0.0 -73.975804,40.706191,0.0 -73.979108,40.70583299999999,0.0 -73.980482,40.701083,0.0 -73.980353,40.696332999999996,0.0 -73.964732,40.695519,0.0 -73.961513,40.696203,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Downtown Brooklyn</name>
+				<styleUrl>#poly-3333FF-3-115-nodesc</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-73.98095,40.68875,0.0 -73.981547,40.68996200000001,0.0 -73.978693,40.689848,0.0 -73.979101,40.693443,0.0 -73.979595,40.694094,0.0 -73.980153,40.694485,0.0 -73.980432,40.696469,0.0 -73.981526,40.695981,0.0 -73.984659,40.696176,0.0 -73.98691,40.70072,0.0 -73.99048,40.700849999999996,0.0 -73.99125,40.69646,0.0 -73.99043,40.69369,0.0 -73.99172,40.69106,0.0 -73.99249,40.68965,0.0 -73.98927,40.68864,0.0 -73.98833,40.68982,0.0 -73.97936,40.68647,0.0 -73.98095,40.68875,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Brooklyn Heights</name>
+				<styleUrl>#poly-FF0000-3-115-nodesc</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-73.99043800000001,40.69373,0.0 -73.991296,40.696495,0.0 -73.99056700000001,40.700725,0.0 -73.991296,40.700725,0.0 -73.992584,40.702157,0.0 -73.996403,40.70342500000001,0.0 -73.99915,40.70092,0.0 -74.004214,40.69294899999999,0.0 -73.992369,40.689597,0.0 -73.991683,40.690931,0.0 -73.99043800000001,40.69373,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Prospect Heights</name>
+				<styleUrl>#poly-FF9900-3-115-nodesc</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-73.96996,40.67325999999999,0.0 -73.962622,40.67159,0.0 -73.964295,40.68119099999999,0.0 -73.97726,40.683930000000004,0.0 -73.96996,40.67325999999999,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Boerum Hill</name>
+				<styleUrl>#poly-CC33CC-3-115-nodesc</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-73.988206,40.689922,0.0 -73.991683,40.684781,0.0 -73.980739,40.680583,0.0 -73.978121,40.684781,0.0 -73.979409,40.686441,0.0 -73.988206,40.689922,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Cobble Hill</name>
+				<styleUrl>#poly-33CC00-3-115-nodesc</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-74.000823,40.685334,0.0 -73.995073,40.683674,0.0 -73.993056,40.682991,0.0 -73.989236,40.68862099999999,0.0 -73.992498,40.689695,0.0 -73.997777,40.691061,0.0 -74.000823,40.685334,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Columbia Waterfront</name>
+				<styleUrl>#poly-FFFF00-3-115-nodesc</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-74.008291,40.686929,0.0 -74.003441,40.679964,0.0 -73.997862,40.691126,0.0 -74.004214,40.692916,0.0 -74.008291,40.686929,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Carroll Gardens</name>
+				<styleUrl>#poly-FF0000-3-115-nodesc</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-74.003441,40.679997,0.0 -74.000952,40.675636,0.0 -73.997734,40.67475699999999,0.0 -73.995845,40.678793,0.0 -73.993785,40.677849,0.0 -73.990996,40.682112000000004,0.0 -73.995159,40.683772,0.0 -74.000781,40.685302,0.0 -74.003441,40.679997,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Gowanus</name>
+				<styleUrl>#poly-FF9900-3-115-nodesc</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-73.980782,40.68064799999999,0.0 -73.991768,40.684813,0.0 -73.993013,40.682893,0.0 -73.990989,40.682135,0.0 -73.993742,40.677751,0.0 -73.995752,40.678783,0.0 -73.997734,40.674659000000005,0.0 -73.998806,40.672609,0.0 -74.000473,40.66892099999999,0.0 -73.992884,40.665544999999995,0.0 -73.983958,40.67618900000001,0.0 -73.980782,40.68064799999999,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Shape 16</name>
+				<styleUrl>#poly-CC33CC-3-115-nodesc</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-74.008205,40.686961000000004,0.0 -74.020264,40.679346,0.0 -74.020264,40.673715,0.0 -74.01829,40.664666,0.0 -74.011295,40.664894,0.0 -74.009321,40.668214,0.0 -74.002883,40.66701,0.0 -74.00048,40.668572,0.0 -73.998935,40.672739,0.0 -73.997819,40.674855,0.0 -74.000909,40.675603,0.0 -74.008205,40.686961000000004,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Greenpoint</name>
+				<styleUrl>#poly-33CC00-3-115-nodesc</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-73.96241,40.7259,0.0 -73.95765,40.72505,0.0 -73.94859,40.72004,0.0 -73.94846,40.71844999999999,0.0 -73.94057,40.71923,0.0 -73.94061,40.71959,0.0 -73.93597,40.72056,0.0 -73.934641,40.717209,0.0 -73.924534,40.71997300000001,0.0 -73.927045,40.725275,0.0 -73.92856800000001,40.727177,0.0 -73.930457,40.728121,0.0 -73.93431,40.7288,0.0 -73.93765,40.72945,0.0 -73.93946,40.7316,0.0 -73.94074,40.73440000000001,0.0 -73.94255,40.73570000000001,0.0 -73.94512,40.73693,0.0 -73.9519,40.73914,0.0 -73.95456,40.73946999999999,0.0 -73.9574,40.73914,0.0 -73.95997,40.73778000000001,0.0 -73.96323000000001,40.73401,0.0 -73.96241,40.7259,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Williamsburg - Northside</name>
+				<styleUrl>#poly-FFCC00-3-115-nodesc</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-73.968415,40.716948,0.0 -73.963394,40.715452,0.0 -73.954768,40.712264,0.0 -73.95309400000001,40.714249,0.0 -73.948159,40.717501000000006,0.0 -73.94854500000001,40.719973,0.0 -73.957644,40.724982,0.0 -73.96236400000001,40.725893,0.0 -73.968415,40.716948,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Williamsburg - South Side</name>
+				<styleUrl>#poly-FFFF00-3-115-nodesc</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-73.97167700000001,40.709369,0.0 -73.968501,40.706994,0.0 -73.96708500000001,40.704164,0.0 -73.96039,40.699315999999996,0.0 -73.960261,40.698535,0.0 -73.949919,40.699804,0.0 -73.95052,40.705758,0.0 -73.95288,40.706864,0.0 -73.957429,40.708361,0.0 -73.954897,40.712329,0.0 -73.963952,40.715647,0.0 -73.968458,40.716916,0.0 -73.97167700000001,40.709369,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>East Williamsburg</name>
+				<styleUrl>#poly-CC33CC-3-115-nodesc</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-73.948245,40.717436,0.0 -73.953009,40.71431400000001,0.0 -73.954897,40.712297,0.0 -73.957343,40.70839300000001,0.0 -73.95052,40.705758,0.0 -73.949876,40.699739,0.0 -73.942065,40.700813000000004,0.0 -73.937044,40.701919,0.0 -73.933783,40.702765,0.0 -73.931251,40.70387100000001,0.0 -73.932667,40.708393,0.0 -73.93507000000001,40.713468,0.0 -73.933268,40.713923,0.0 -73.934684,40.717274,0.0 -73.935928,40.720591,0.0 -73.940563,40.719616,0.0 -73.94052000000002,40.719193,0.0 -73.948331,40.718477,0.0 -73.948245,40.717436,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Bushwick</name>
+				<styleUrl>#poly-FF0000-3-115-nodesc</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-73.934598,40.717306,0.0 -73.933353,40.714053,0.0 -73.935156,40.713533,0.0 -73.932667,40.708361,0.0 -73.931293,40.70393599999999,0.0 -73.93374,40.702895000000005,0.0 -73.936529,40.702113999999995,0.0 -73.941979,40.700845,0.0 -73.904214,40.679336,0.0 -73.902841,40.680833,0.0 -73.900394,40.679694,0.0 -73.897991,40.679727,0.0 -73.896832,40.680508,0.0 -73.896275,40.682591,0.0 -73.900931,40.68791100000001,0.0 -73.900137,40.688204,0.0 -73.901467,40.69167,0.0 -73.905973,40.69430599999999,0.0 -73.904557,40.6959,0.0 -73.911746,40.699983,0.0 -73.91067300000002,40.701057000000006,0.0 -73.912883,40.702375,0.0 -73.911788,40.703464,0.0 -73.921766,40.70936900000001,0.0 -73.920715,40.71054,0.0 -73.922238,40.71285,0.0 -73.923955,40.714020999999995,0.0 -73.924384,40.715306,0.0 -73.922668,40.716151,0.0 -73.922946,40.717110999999996,0.0 -73.923976,40.718168,0.0 -73.924298,40.71877,0.0 -73.924384,40.719892,0.0 -73.924727,40.71987599999999,0.0 -73.934598,40.717306,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Brownsville</name>
+				<styleUrl>#poly-33CC00-3-115-nodesc</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-73.931465,40.663224,0.0 -73.913741,40.647238,0.0 -73.902154,40.654662,0.0 -73.900394,40.656518,0.0 -73.899622,40.657852999999996,0.0 -73.899579,40.659285000000004,0.0 -73.903484,40.675463,0.0 -73.931465,40.663224,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Crown Heights</name>
+				<styleUrl>#poly-FFFF00-3-115-nodesc</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-73.964424,40.681289,0.0 -73.96266,40.67168,0.0 -73.96094,40.66340999999999,0.0 -73.94532,40.66429,0.0 -73.93451,40.66358,0.0 -73.93116,40.66348000000001,0.0 -73.92271,40.66726,0.0 -73.92236,40.67185,0.0 -73.94468000000002,40.67318000000001,0.0 -73.94421,40.67813000000001,0.0 -73.95292,40.67867999999999,0.0 -73.964424,40.681289,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Park Slope</name>
+				<styleUrl>#poly-3366FF-3-115-nodesc</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-73.983994,40.67627699999999,0.0 -73.991804,40.666837,0.0 -73.979831,40.66101,0.0 -73.96996,40.67312,0.0 -73.978071,40.68483599999999,0.0 -73.983994,40.67627699999999,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Prospect-Lefferts Gardens</name>
+				<styleUrl>#poly-3366FF-3-115-nodesc</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-73.961034,40.663322,0.0 -73.96266500000002,40.663028999999995,0.0 -73.963094,40.66228,0.0 -73.96142,40.652285,0.0 -73.959317,40.652936,0.0 -73.957214,40.652904,0.0 -73.956056,40.652383,0.0 -73.930521,40.653847999999996,0.0 -73.931465,40.663452,0.0 -73.945456,40.664266000000005,0.0 -73.961034,40.663322,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>South Slope</name>
+				<description><![CDATA[AKA; Greenwood]]></description>
+				<styleUrl>#poly-FFFF00-3-115</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-74.002919,40.66703300000001,0.0 -74.004936,40.66508000000001,0.0 -73.995366,40.659676,0.0 -73.99292,40.65840600000001,0.0 -73.992276,40.658959,0.0 -73.990216,40.657722,0.0 -73.984723,40.66338700000001,0.0 -73.991933,40.666805,0.0 -73.992963,40.66569799999999,0.0 -74.000387,40.668856,0.0 -74.002919,40.66703300000001,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Windsor Terrace</name>
+				<styleUrl>#poly-33CC00-3-115-nodesc</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-73.988714,40.65935,0.0 -73.981848,40.65524800000001,0.0 -73.980432,40.64779200000001,0.0 -73.98159,40.647369,0.0 -73.98094700000001,40.64502400000001,0.0 -73.974595,40.645741,0.0 -73.97438,40.644861,0.0 -73.970861,40.646392,0.0 -73.974423,40.658439,0.0 -73.984809,40.663419000000005,0.0 -73.988714,40.65935,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Sunset Park</name>
+				<styleUrl>#poly-FF0000-3-115-nodesc</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-73.998241,40.649778,0.0 -73.997812,40.650364,0.0 -74.002147,40.65296899999999,0.0 -73.99528,40.65967599999999,0.0 -74.005022,40.665047,0.0 -74.017982,40.65987100000001,0.0 -74.03429,40.645708,0.0 -74.022231,40.63786,0.0 -74.018841,40.636818,0.0 -74.01309,40.635385,0.0 -74.010773,40.63437499999999,0.0 -73.996139,40.648443,0.0 -73.998241,40.649778,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Bay Ridge</name>
+				<styleUrl>#poly-3366FF-3-115-nodesc</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-74.038925,40.639749,0.0 -74.042101,40.62597199999999,0.0 -74.028711,40.622943,0.0 -74.02133,40.61838300000001,0.0 -74.017811,40.626656000000004,0.0 -74.015322,40.633398,0.0 -74.013219,40.63548300000001,0.0 -74.022231,40.637925,0.0 -74.034333,40.645740999999994,0.0 -74.038925,40.639749,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Fort Hamilton</name>
+				<styleUrl>#poly-FF9900-3-115-nodesc</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-74.042745,40.623041,0.0 -74.041028,40.614702,0.0 -74.033775,40.606394,0.0 -74.02987,40.604635,0.0 -74.02171600000001,40.60362500000001,0.0 -74.0203,40.607240999999995,0.0 -74.024849,40.60988,0.0 -74.022832,40.614702,0.0 -74.021373,40.618448,0.0 -74.028754,40.622911,0.0 -74.042144,40.626005,0.0 -74.042745,40.623041,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Dyker Heights</name>
+				<styleUrl>#poly-33CC00-3-115-nodesc</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-74.021802,40.603657000000005,0.0 -74.019656,40.603038,0.0 -74.015536,40.60685,0.0 -74.016995,40.60773,0.0 -73.997254,40.626591,0.0 -74.010859,40.63440800000001,0.0 -74.013305,40.63548300000001,0.0 -74.015322,40.633496,0.0 -74.024849,40.60988,0.0 -74.020429,40.607240999999995,0.0 -74.021802,40.603657000000005,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Kensington</name>
+				<description><![CDATA[AKA: Prospect Park South]]></description>
+				<styleUrl>#poly-FF0000-3-115</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-73.974552,40.644959,0.0 -73.974681,40.645806,0.0 -73.981204,40.645089,0.0 -73.978672,40.63304,0.0 -73.972449,40.633789,0.0 -73.972235,40.632942,0.0 -73.9676,40.635125,0.0 -73.970819,40.646327,0.0 -73.974552,40.644959,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Borough Park</name>
+				<styleUrl>#poly-FFFF00-3-115-nodesc</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-73.981547,40.647401,0.0 -73.988156,40.644861,0.0 -73.9891,40.644178,0.0 -73.996181,40.648508,0.0 -74.010901,40.63440800000001,0.0 -73.99734,40.626624,0.0 -73.996997,40.626884,0.0 -73.994765,40.625647,0.0 -73.992963,40.625321,0.0 -73.991246,40.625419,0.0 -73.983307,40.62607,0.0 -73.979788,40.629619999999996,0.0 -73.978243,40.630337000000004,0.0 -73.978715,40.63300799999999,0.0 -73.981547,40.647401,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Ditmas Park</name>
+				<description><![CDATA[AKA: Prospect Park South]]></description>
+				<styleUrl>#poly-CC33CC-3-115</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-73.964767,40.65095,0.0 -73.97154800000001,40.648378,0.0 -73.967171,40.633822,0.0 -73.958631,40.637762,0.0 -73.961978,40.65501999999999,0.0 -73.966312,40.653197,0.0 -73.964767,40.65095,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Bath Beach</name>
+				<styleUrl>#poly-CC33CC-3-115-nodesc</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-74.017081,40.607795,0.0 -74.015536,40.606883,0.0 -74.019699,40.60307100000001,0.0 -74.019699,40.602419,0.0 -74.013605,40.601441,0.0 -74.003477,40.594892,0.0 -73.999186,40.588211,0.0 -73.991418,40.59039500000001,0.0 -73.985324,40.596292999999996,0.0 -73.98536700000001,40.59691200000001,0.0 -74.011717,40.612812,0.0 -74.017081,40.607795,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Bensonhurst</name>
+				<styleUrl>#poly-3366FF-3-115-nodesc</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-73.98536700000001,40.596945,0.0 -73.986011,40.600431,0.0 -73.972492,40.6018,0.0 -73.972363,40.604472,0.0 -73.973994,40.61411499999999,0.0 -73.99262,40.625321,0.0 -73.993735,40.625386,0.0 -73.994894,40.62567899999999,0.0 -73.996997,40.626917000000006,0.0 -74.011717,40.612845,0.0 -73.98536700000001,40.596945,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Mapleton</name>
+				<styleUrl>#poly-FF9900-3-115-nodesc</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-73.972535,40.633789,0.0 -73.978758,40.633073,0.0 -73.978372,40.63037,0.0 -73.979917,40.62968600000001,0.0 -73.983393,40.626103,0.0 -73.992577,40.625256,0.0 -73.973994,40.61418,0.0 -73.968544,40.61453900000001,0.0 -73.972235,40.632975,0.0 -73.972535,40.633789,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Flatbush</name>
+				<styleUrl>#poly-FFFF00-3-115-nodesc</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-73.970604,40.624343999999994,0.0 -73.941593,40.627275,0.0 -73.942451,40.639,0.0 -73.948331,40.63870699999999,0.0 -73.949833,40.652741,0.0 -73.956141,40.652383,0.0 -73.957429,40.653002,0.0 -73.959446,40.653002,0.0 -73.961592,40.652383,0.0 -73.958759,40.637828,0.0 -73.967257,40.633952,0.0 -73.967729,40.63519,0.0 -73.972363,40.633008000000004,0.0 -73.970604,40.624343999999994,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>East Flatbush</name>
+				<styleUrl>#poly-FF0000-3-115-nodesc</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-73.948331,40.63870699999999,0.0 -73.94258,40.63903199999999,0.0 -73.942022,40.631249000000004,0.0 -73.939919,40.631412,0.0 -73.937387,40.63229100000001,0.0 -73.934255,40.633951999999994,0.0 -73.930521,40.635971,0.0 -73.926487,40.63639499999999,0.0 -73.923225,40.637828,0.0 -73.913226,40.644145,0.0 -73.912668,40.646262,0.0 -73.93168,40.663517,0.0 -73.93073600000001,40.65391300000001,0.0 -73.949876,40.652806,0.0 -73.948331,40.63870699999999,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Sheapshead Bay</name>
+				<styleUrl>#poly-FF0000-3-115-nodesc</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-73.954253,40.58342,0.0 -73.953953,40.58241,0.0 -73.948374,40.58286600000001,0.0 -73.930907,40.58234499999999,0.0 -73.925371,40.582409999999996,0.0 -73.925371,40.585213,0.0 -73.92786,40.58681,0.0 -73.929791,40.588407,0.0 -73.932023,40.588244,0.0 -73.934555,40.601246,0.0 -73.956485,40.598867,0.0 -73.954296,40.585767,0.0 -73.954768,40.58475700000001,0.0 -73.954253,40.58342,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Gravesend</name>
+				<styleUrl>#poly-FFFF00-3-115-nodesc</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-73.999228,40.588211,0.0 -74.000859,40.583746,0.0 -74.000602,40.582703,0.0 -73.987899,40.579313,0.0 -73.983951,40.583127,0.0 -73.983436,40.58309400000001,0.0 -73.979917,40.580031,0.0 -73.978372,40.580161,0.0 -73.974681,40.582801,0.0 -73.969016,40.583909,0.0 -73.954768,40.58488700000001,0.0 -73.954339,40.585799,0.0 -73.957343,40.603429,0.0 -73.972793,40.601898,0.0 -73.986139,40.600497,0.0 -73.985324,40.596292999999996,0.0 -73.991504,40.59039500000001,0.0 -73.999228,40.588211,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Midwood</name>
+				<styleUrl>#poly-CC33CC-3-115-nodesc</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-73.970561,40.62444200000001,0.0 -73.96863,40.614604,0.0 -73.97408,40.614311,0.0 -73.972621,40.604699999999994,0.0 -73.972578,40.601929999999996,0.0 -73.957515,40.603559000000004,0.0 -73.956571,40.59886699999999,0.0 -73.941936,40.600464,0.0 -73.946829,40.626852,0.0 -73.970561,40.62444200000001,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Marine Park</name>
+				<styleUrl>#poly-33CC00-3-115-nodesc</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-73.942065,40.600529,0.0 -73.936186,40.601116,0.0 -73.931894,40.603787,0.0 -73.922668,40.59701,0.0 -73.910437,40.587201,0.0 -73.908248,40.589873000000004,0.0 -73.908076,40.59212200000001,0.0 -73.908548,40.594338,0.0 -73.908119,40.596782,0.0 -73.931766,40.617927,0.0 -73.943825,40.610238,0.0 -73.942065,40.600529,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Gerritsen Beach</name>
+				<styleUrl>#poly-FFFF00-3-115-nodesc</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-73.934727,40.601213,0.0 -73.932066,40.58814600000001,0.0 -73.929663,40.588309,0.0 -73.926744,40.585962,0.0 -73.925328,40.585245,0.0 -73.925371,40.58254,0.0 -73.917818,40.581921,0.0 -73.91181,40.581008,0.0 -73.910437,40.581628,0.0 -73.910136,40.582703,0.0 -73.910265,40.585311,0.0 -73.910522,40.587201,0.0 -73.922925,40.597238000000004,0.0 -73.931894,40.60382,0.0 -73.936272,40.601116,0.0 -73.934727,40.601213,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Mill Basin</name>
+				<styleUrl>#poly-FF0000-3-115-nodesc</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-73.919706,40.607306,0.0 -73.915071,40.60290799999999,0.0 -73.908162,40.596813999999995,0.0 -73.904514,40.59877000000001,0.0 -73.900137,40.601181,0.0 -73.898034,40.604407,0.0 -73.896446,40.609391,0.0 -73.901896,40.610955,0.0 -73.91219600000001,40.619458,0.0 -73.924341,40.611607,0.0 -73.919706,40.607306,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Bergen Beach</name>
+				<styleUrl>#poly-CC33CC-3-115-nodesc</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-73.91726,40.61835,0.0 -73.915758,40.61711199999999,0.0 -73.912239,40.619523,0.0 -73.902025,40.611086,0.0 -73.896489,40.609457,0.0 -73.895245,40.615353,0.0 -73.894644,40.62164,0.0 -73.918676,40.632193,0.0 -73.91726,40.61835,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Flatlands</name>
+				<styleUrl>#poly-3366FF-3-115-nodesc</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-73.946915,40.626917,0.0 -73.943825,40.610369,0.0 -73.931808,40.617959000000006,0.0 -73.924556,40.611542,0.0 -73.915844,40.617178,0.0 -73.91726,40.618448,0.0 -73.919492,40.640237,0.0 -73.923311,40.63786,0.0 -73.926444,40.636492,0.0 -73.93065,40.636069,0.0 -73.937387,40.632324,0.0 -73.939919,40.631444,0.0 -73.942022,40.631347,0.0 -73.941722,40.62734,0.0 -73.946915,40.626917,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Manhattan Beach</name>
+				<styleUrl>#poly-3366FF-3-115-nodesc</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-73.95391,40.58247500000001,0.0 -73.952279,40.57374000000001,0.0 -73.930049,40.575043,0.0 -73.93168,40.58241000000001,0.0 -73.948417,40.582964,0.0 -73.95391,40.58247500000001,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Brighton Beach</name>
+				<styleUrl>#poly-33CC00-3-115-nodesc</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-73.96682700000001,40.58404,0.0 -73.969703,40.572012,0.0 -73.952365,40.57380499999999,0.0 -73.953953,40.582539999999995,0.0 -73.954811,40.584952,0.0 -73.96682700000001,40.58404,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Coney Island</name>
+				<styleUrl>#poly-FF0000-3-115-nodesc</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-74.004035,40.58231200000001,0.0 -74.002104,40.570317,0.0 -73.99386,40.5695,0.0 -73.96978,40.57201,0.0 -73.96691,40.5841,0.0 -73.96905,40.58397000000001,0.0 -73.97476,40.58286,0.0 -73.9785,40.58019,0.0 -73.97991,40.58009,0.0 -73.98343,40.58312,0.0 -73.98403,40.58319000000001,0.0 -73.98794,40.57934,0.0 -74.00068,40.5828,0.0 -74.004035,40.58231200000001,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Sea Gate</name>
+				<styleUrl>#poly-FF9900-3-115-nodesc</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-74.003906,40.58228,0.0 -74.01244600000001,40.58146500000001,0.0 -74.014249,40.577749,0.0 -74.013004,40.573446,0.0 -74.002018,40.570382,0.0 -74.003906,40.58228,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Canarsie</name>
+				<styleUrl>#poly-FF9900-3-115-nodesc</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-73.900652,40.656257,0.0 -73.901854,40.65502,0.0 -73.91387,40.647304000000005,0.0 -73.912754,40.64626199999999,0.0 -73.913355,40.64421,0.0 -73.919578,40.64030300000001,0.0 -73.918762,40.632290999999995,0.0 -73.89473,40.62164,0.0 -73.882155,40.62835,0.0 -73.875246,40.635613,0.0 -73.891511,40.64984299999999,0.0 -73.88988,40.650983,0.0 -73.891425,40.652383,0.0 -73.89515900000002,40.657592,0.0 -73.896017,40.65769,0.0 -73.898764,40.65726699999999,0.0 -73.899837,40.657397,0.0 -73.900652,40.656257,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Starrett City</name>
+				<styleUrl>#poly-CC33CC-3-115-nodesc</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-73.89164,40.649908,0.0 -73.875246,40.635580000000004,0.0 -73.867521,40.63903199999999,0.0 -73.879795,40.655509,0.0 -73.890095,40.651146,0.0 -73.89164,40.649908,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>New Lots</name>
+				<styleUrl>#poly-3366FF-3-115-nodesc</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-73.899965,40.657527,0.0 -73.898935,40.657299,0.0 -73.896103,40.65775500000001,0.0 -73.895288,40.657592,0.0 -73.890052,40.651210999999996,0.0 -73.879795,40.655509,0.0 -73.868937,40.660327,0.0 -73.867221,40.66049,0.0 -73.873744,40.669409,0.0 -73.874002,40.670223,0.0 -73.899708,40.659122,0.0 -73.899965,40.657527,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>East New York</name>
+				<styleUrl>#poly-FFFF00-3-115-nodesc</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-73.900609,40.679824,0.0 -73.90292600000001,40.680931,0.0 -73.904214,40.679336,0.0 -73.903399,40.67790399999999,0.0 -73.90357,40.675496,0.0 -73.899665,40.659643,0.0 -73.899751,40.65922,0.0 -73.87413,40.67018999999999,0.0 -73.876576,40.680313,0.0 -73.891168,40.676472,0.0 -73.893228,40.67614700000001,0.0 -73.896918,40.675789,0.0 -73.897991,40.679792,0.0 -73.900609,40.679824,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Cypress Hills</name>
+				<styleUrl>#poly-33CC00-3-115-nodesc</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-73.87044,40.69082399999999,0.0 -73.872242,40.690271,0.0 -73.888292,40.682623,0.0 -73.890266,40.684983,0.0 -73.893442,40.68303,0.0 -73.894494,40.684771,0.0 -73.896275,40.682607,0.0 -73.896918,40.680671000000004,0.0 -73.898034,40.679824,0.0 -73.896918,40.675756,0.0 -73.891082,40.676537,0.0 -73.866277,40.683176,0.0 -73.868036,40.691117,0.0 -73.87044,40.69082399999999,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>City Line</name>
+				<styleUrl>#poly-FF0000-3-115-nodesc</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-73.876705,40.680475,0.0 -73.873916,40.66931100000001,0.0 -73.867307,40.66052199999999,0.0 -73.857887,40.661792,0.0 -73.858209,40.663533,0.0 -73.85565500000001,40.66382600000001,0.0 -73.857629,40.671704,0.0 -73.86037600000002,40.67128100000001,0.0 -73.862329,40.679092,0.0 -73.86338,40.679125,0.0 -73.864152,40.682347,0.0 -73.866041,40.68195600000001,0.0 -73.866363,40.683209,0.0 -73.876705,40.680475,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Spring Creek</name>
+				<styleUrl>#poly-FF9900-3-115-nodesc</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-73.879924,40.655541,0.0 -73.873444,40.646783,0.0 -73.867564,40.639065,0.0 -73.855548,40.643526,0.0 -73.856449,40.651015,0.0 -73.858209,40.652448,0.0 -73.859539,40.65524800000001,0.0 -73.862736,40.65769,0.0 -73.861384,40.659040999999995,0.0 -73.857651,40.660083,0.0 -73.857994,40.661759,0.0 -73.867307,40.66058699999999,0.0 -73.869281,40.660327,0.0 -73.879924,40.655541,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Weeksville</name>
+				<description><![CDATA[AKA: Crown Heights]]></description>
+				<styleUrl>#poly-FF9900-3-115</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-73.944039,40.680117,0.0 -73.944769,40.673217,0.0 -73.922496,40.67191499999999,0.0 -73.922796,40.667358,0.0 -73.92211,40.667326,0.0 -73.917174,40.669571999999995,0.0 -73.91623,40.67862,0.0 -73.943353,40.68008499999999,0.0 -73.944039,40.680117,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Ocean Heights</name>
+				<description><![CDATA[AKA: Bed-Stuy]]></description>
+				<styleUrl>#poly-FF0000-3-115</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-73.916273,40.67862,0.0 -73.917174,40.669604,0.0 -73.903656,40.675431,0.0 -73.903356,40.677969,0.0 -73.904386,40.679499,0.0 -73.924384,40.690824,0.0 -73.921981,40.678978,0.0 -73.916273,40.67862,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+		</Folder>
+		<Style id='poly-3333FF-3-115-nodesc-normal'>
+			<LineStyle>
+				<color>ffFF3333</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>73FF3333</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='poly-3333FF-3-115-nodesc-highlight'>
+			<LineStyle>
+				<color>ffFF3333</color>
+				<width>5.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>73FF3333</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='poly-3333FF-3-115-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-3333FF-3-115-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-3333FF-3-115-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='poly-3366FF-3-115-normal'>
+			<LineStyle>
+				<color>ffFF6633</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>73FF6633</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Style id='poly-3366FF-3-115-highlight'>
+			<LineStyle>
+				<color>ffFF6633</color>
+				<width>5.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>73FF6633</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<StyleMap id='poly-3366FF-3-115'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-3366FF-3-115-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-3366FF-3-115-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='poly-3366FF-3-115-nodesc-normal'>
+			<LineStyle>
+				<color>ffFF6633</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>73FF6633</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='poly-3366FF-3-115-nodesc-highlight'>
+			<LineStyle>
+				<color>ffFF6633</color>
+				<width>5.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>73FF6633</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='poly-3366FF-3-115-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-3366FF-3-115-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-3366FF-3-115-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='poly-33CC00-3-115-nodesc-normal'>
+			<LineStyle>
+				<color>ff00CC33</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>7300CC33</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='poly-33CC00-3-115-nodesc-highlight'>
+			<LineStyle>
+				<color>ff00CC33</color>
+				<width>5.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>7300CC33</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='poly-33CC00-3-115-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-33CC00-3-115-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-33CC00-3-115-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='poly-993399-3-115-nodesc-normal'>
+			<LineStyle>
+				<color>ff993399</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>73993399</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='poly-993399-3-115-nodesc-highlight'>
+			<LineStyle>
+				<color>ff993399</color>
+				<width>5.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>73993399</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='poly-993399-3-115-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-993399-3-115-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-993399-3-115-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='poly-CC33CC-3-115-normal'>
+			<LineStyle>
+				<color>ffCC33CC</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>73CC33CC</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Style id='poly-CC33CC-3-115-highlight'>
+			<LineStyle>
+				<color>ffCC33CC</color>
+				<width>5.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>73CC33CC</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<StyleMap id='poly-CC33CC-3-115'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-CC33CC-3-115-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-CC33CC-3-115-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='poly-CC33CC-3-115-nodesc-normal'>
+			<LineStyle>
+				<color>ffCC33CC</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>73CC33CC</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='poly-CC33CC-3-115-nodesc-highlight'>
+			<LineStyle>
+				<color>ffCC33CC</color>
+				<width>5.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>73CC33CC</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='poly-CC33CC-3-115-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-CC33CC-3-115-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-CC33CC-3-115-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='poly-FF0000-3-115-normal'>
+			<LineStyle>
+				<color>ff0000FF</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>730000FF</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Style id='poly-FF0000-3-115-highlight'>
+			<LineStyle>
+				<color>ff0000FF</color>
+				<width>5.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>730000FF</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<StyleMap id='poly-FF0000-3-115'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-FF0000-3-115-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-FF0000-3-115-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='poly-FF0000-3-115-nodesc-normal'>
+			<LineStyle>
+				<color>ff0000FF</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>730000FF</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='poly-FF0000-3-115-nodesc-highlight'>
+			<LineStyle>
+				<color>ff0000FF</color>
+				<width>5.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>730000FF</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='poly-FF0000-3-115-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-FF0000-3-115-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-FF0000-3-115-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='poly-FF9900-3-115-normal'>
+			<LineStyle>
+				<color>ff0099FF</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>730099FF</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Style id='poly-FF9900-3-115-highlight'>
+			<LineStyle>
+				<color>ff0099FF</color>
+				<width>5.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>730099FF</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<StyleMap id='poly-FF9900-3-115'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-FF9900-3-115-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-FF9900-3-115-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='poly-FF9900-3-115-nodesc-normal'>
+			<LineStyle>
+				<color>ff0099FF</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>730099FF</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='poly-FF9900-3-115-nodesc-highlight'>
+			<LineStyle>
+				<color>ff0099FF</color>
+				<width>5.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>730099FF</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='poly-FF9900-3-115-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-FF9900-3-115-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-FF9900-3-115-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='poly-FFCC00-3-115-nodesc-normal'>
+			<LineStyle>
+				<color>ff00CCFF</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>7300CCFF</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='poly-FFCC00-3-115-nodesc-highlight'>
+			<LineStyle>
+				<color>ff00CCFF</color>
+				<width>5.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>7300CCFF</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='poly-FFCC00-3-115-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-FFCC00-3-115-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-FFCC00-3-115-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='poly-FFFF00-3-115-normal'>
+			<LineStyle>
+				<color>ff00FFFF</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>7300FFFF</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Style id='poly-FFFF00-3-115-highlight'>
+			<LineStyle>
+				<color>ff00FFFF</color>
+				<width>5.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>7300FFFF</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<StyleMap id='poly-FFFF00-3-115'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-FFFF00-3-115-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-FFFF00-3-115-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='poly-FFFF00-3-115-nodesc-normal'>
+			<LineStyle>
+				<color>ff00FFFF</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>7300FFFF</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='poly-FFFF00-3-115-nodesc-highlight'>
+			<LineStyle>
+				<color>ff00FFFF</color>
+				<width>5.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>7300FFFF</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='poly-FFFF00-3-115-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-FFFF00-3-115-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-FFFF00-3-115-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>
