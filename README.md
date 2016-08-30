@@ -10,4 +10,4 @@ I made this app to learn new techniques and am hoping others can find it useful.
 Tutorial
 --------
 
-link to medium post
+[Medium Post](https://medium.com/@jarrellmark/goodbye-spark-streaming-hello-aws-kinesis-analytics-37ccf0bc2e5e)
